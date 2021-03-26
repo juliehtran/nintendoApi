@@ -1,0 +1,50 @@
+body {
+    background-image: url('nintendo-bg.png');
+    background-color: #FCCA28;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    font-family: 'Press Start 2P', cursive;
+    color: #FCCA28;
+}
+
+.container {
+    background-color: #303030;
+    border: #21211E 40px solid;
+    width: 60%;
+    height: 600px;
+    text-align: center;
+}
+
+img {
+    width: 40%;
+}
+
+.description {
+    font-family: 'Play', sans-serif;
+    color:white;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input{
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.submit{
+    padding: 10px;
+    background-color: #48b36c;
+    border-radius: 10px;
+}
+
+.name{
+    color: #48b36c;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;    
+    margin-top: 50px;
+}
