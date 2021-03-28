@@ -12,7 +12,6 @@ This is an app that presents Nintendo game consoles based on year. Between 1977 
 
 ## Usage
 
-0. set environment variable for DATABASE_URL, optional variables PORT and SESSION_SECRET
 1. run `npm run start`
 2. Navigate to `localhost:8000`
 
